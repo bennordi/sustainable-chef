@@ -6,8 +6,8 @@ import (
 	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"
 
-	"github.com/bennordi/sustainablechef/handler"
-	"github.com/bennordi/sustainablechef/repository/order"
+	"github.com/bennordi/sustainable-chef/handler"
+	"github.com/bennordi/sustainable-chef/repository/order"
 )
 
 func (a *App) loadRoutes() {

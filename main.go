@@ -6,7 +6,7 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/bennordi/sustainablechef/application"
+	"github.com/bennordi/sustainable-chef/application"
 )
 
 func main() {

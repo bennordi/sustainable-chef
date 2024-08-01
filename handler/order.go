@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/bennordi/sustainablechef/model"
-	"github.com/bennordi/sustainablechef/repository/order"
+	"github.com/bennordi/sustainable-chef/model"
+	"github.com/bennordi/sustainable-chef/repository/order"
 	"github.com/go-chi/chi"
 	"github.com/google/uuid"
 )

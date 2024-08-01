@@ -1,4 +1,4 @@
-module github.com/bennordi/sustainablechef
+module github.com/bennordi/sustainable-chef
 
 go 1.20
 

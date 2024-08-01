@@ -6,7 +6,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/bennordi/sustainablechef/model"
+	"github.com/bennordi/sustainable-chef/model"
 	"github.com/redis/go-redis/v9"
 )
 
